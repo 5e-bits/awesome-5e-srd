@@ -42,6 +42,7 @@ Bots that leverage the D&D 5e SRD API
 
 - [DnD Fetch](https://github.com/BrettThurs10/DNDFetch) - A DND card generator for all your adventures.
 - [DnD One Stop](https://github.com/dylanpetty70/dndonestop)
+- [Warforged5e](https://github.com/cort-robinson/warforged5e) - A tool made for dungeon masters, by dungeon masters. Speed up the logistics of your table.
 
 ### Command Line
 
