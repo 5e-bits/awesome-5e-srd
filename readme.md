@@ -44,6 +44,7 @@ Bots that leverage the D&D 5e SRD API
 - [DnD One Stop](https://github.com/dylanpetty70/dndonestop)
 - [Warforged5e](https://github.com/cort-robinson/warforged5e) - A tool made for dungeon masters, by dungeon masters. Speed up the logistics of your table.
 - [DnDify](https://trevorbrown-dev.github.io/dndify) - A character sheet application.
+- [DnD Combat Tracker](http://dnd.achim-strauss.net/y) - Track your encounters as a DM. Keeps track of your players even between sessions.
 
 ### Command Line
 
