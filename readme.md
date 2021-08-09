@@ -4,7 +4,6 @@
 
 <img width="500" height="350" src="/awesome-logo.svg" alt="Awesome">
 
-
 ## Contents
 
 - [API Clients](#api-clients)
