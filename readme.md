@@ -6,25 +6,30 @@
 
 ## Contents
 
-- [API Clients](#API-Clients)
-- [Bots](#Bots)
-- [Applications](#Applications)
+- [API Clients](#api-clients)
+  - [JS/TS](#jsts)
+  - [Go](#go)
+- [Bots](#bots)
+  - [Discord](#discord)
+- [Applications](#applications)
+  - [Web Applications](#web-applications)
+  - [Command Line](#command-line)
+- [Contribute](#contribute)
 
 ## API Clients
 
 ### JS/TS
 
-- [fergcb/fivee](https://github.com/fergcb/fivee) - Typescript wrapper library for the D&D 5e SRD API
-- [Satoqz/dnd-api](https://github.com/Satoqz/dnd-api) - Node Wrapper of the D&D 5th Edition API
+- [fergcb/fivee](https://github.com/fergcb/fivee) - Typescript wrapper library for the D&D 5e SRD API.
 
 ### Go
 
 API Clients written in go
 
-- [brittonhayes/dnd](https://github.com/brittonhayes/dnd) - A Go Client for the Dungeons and Dragons 5e SRD REST API
-- [eschreve/godnd](https://github.com/ecshreve/godnd) - Go client for dnd api
-- [elliotcubit/go-5e-srd-api](https://github.com/elliotcubit/go-5e-srd-api) - Go bindings for 5e-srd-api
-- [kjkondratuk/go-dnd5eapi](https://github.com/kjkondratuk/go-dnd5eapi) - A go client for interacting with the dnd5eapi
+- [brittonhayes/dnd](https://github.com/brittonhayes/dnd) - A Go Client for the Dungeons and Dragons 5e SRD REST API.
+- [eschreve/godnd](https://github.com/ecshreve/godnd) - Go client for dnd api.
+- [elliotcubit/go-5e-srd-api](https://github.com/elliotcubit/go-5e-srd-api) - Go bindings for 5e-srd-api.
+- [kjkondratuk/go-dnd5eapi](https://github.com/kjkondratuk/go-dnd5eapi) - A go client for interacting with the dnd5eapi.
 
 ## Bots
 
@@ -32,9 +37,8 @@ Bots that leverage the D&D 5e SRD API
 
 ### Discord
 
-- [Dungeon Master](https://top.gg/bot/755592938922442782) - A Discord bot for all your D&D SRD needs, including info
-  about classes, spells, equipment and more.
-- [Dragon Aid](https://top.gg/bot/697579011005481021) - A Discord bot that takes D&D SRD info from the 5e srd API
+- [Dungeon Master](https://top.gg/bot/755592938922442782) - A Discord bot for all your D&D SRD needs, including infoabout classes, spells, equipment and more.
+- [Dragon Aid](https://top.gg/bot/697579011005481021) - A Discord bot that takes D&D SRD info from the 5e srd API.
 
 ## Applications
 
@@ -49,7 +53,7 @@ Bots that leverage the D&D 5e SRD API
 ### Command Line
 
 - [Fuzzy 5e](https://github.com/cachance7/fuzzy5e) - A 5th edition SRD5 reference for your terminal.
-- [D&D Shell](https://github.com/bsdpunk/dndshell) - A shell for all things DND
+- [D&D Shell](https://github.com/bsdpunk/dndshell) - A shell for all things DND.
 
 ## Contribute
 
