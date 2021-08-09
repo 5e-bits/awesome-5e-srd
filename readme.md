@@ -6,9 +6,17 @@
 
 ## Contents
 
-- [API Clients](#api-clients)
-- [Bots](#bots)
-- [Applications](#applications)
+- [Awesome D&D 5e SRD ![Awesome](https://awesome.re)](#awesome-dd-5e-srd-)
+  - [Contents](#contents)
+  - [API Clients](#api-clients)
+    - [JS/TS](#jsts)
+    - [Go](#go)
+  - [Bots](#bots)
+    - [Discord](#discord)
+  - [Applications](#applications)
+    - [Web Applications](#web-applications)
+    - [Command Line](#command-line)
+  - [Contribute](#contribute)
 
 ## API Clients
 
