@@ -1,6 +1,4 @@
-# Awesome D&D 5e SRD
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome D&D 5e SRD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A compilation of all the cool things people make with the D&amp;D 5e-srd API
 
