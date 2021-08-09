@@ -6,9 +6,9 @@
 
 ## Contents
 
-- [API Clients](#API-Clients)
-- [Bots](#Bots)
-- [Applications](#Applications)
+- [API Clients](#api-clients)
+- [Bots](#bots)
+- [Applications](#applications)
 
 ## API Clients
 
