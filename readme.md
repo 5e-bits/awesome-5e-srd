@@ -4,18 +4,17 @@
 
 <img width="500" height="350" src="/awesome-logo.svg" alt="Awesome">
 
-## Contents
 
-- [Contents](#contents)
-- [API Clients](#api-clients)
-  - [JS/TS](#jsts)
-  - [Go](#go)
-- [Bots](#bots)
-  - [Discord](#discord)
-- [Applications](#applications)
-  - [Web Applications](#web-applications)
-  - [Command Line](#command-line)
-- [Contribute](#contribute)
+- [Awesome D&D 5e SRD ![Awesome](https://awesome.re)](#awesome-dd-5e-srd)
+  - [API Clients](#api-clients)
+    - [JS/TS](#jsts)
+    - [Go](#go)
+  - [Bots](#bots)
+    - [Discord](#discord)
+  - [Applications](#applications)
+    - [Web Applications](#web-applications)
+    - [Command Line](#command-line)
+  - [Contribute](#contribute)
 
 ## API Clients
 
