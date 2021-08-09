@@ -9,17 +9,15 @@
 
 ## Contents
 
-- [Awesome D&D 5e SRD](#awesome-dd-5e-srd)
-  - [Contents](#contents)
-  - [API Clients](#api-clients)
-    - [JS/TS](#jsts)
-    - [Go](#go)
-  - [Bots](#bots)
-    - [Discord](#discord)
-  - [Applications](#applications)
-    - [Web Applications](#web-applications)
-    - [Command Line](#command-line)
-  - [Contribute](#contribute)
+- [API Clients](#api-clients)
+  - [JS/TS](#jsts)
+  - [Go](#go)
+- [Bots](#bots)
+  - [Discord](#discord)
+- [Applications](#applications)
+  - [Web Applications](#web-applications)
+  - [Command Line](#command-line)
+- [Contribute](#contribute)
 
 ## API Clients
 
