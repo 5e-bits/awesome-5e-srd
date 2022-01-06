@@ -56,6 +56,10 @@ Bots that leverage the D&D 5e SRD API
 - [Fuzzy 5e](https://github.com/cachance7/fuzzy5e) - A 5th edition SRD5 reference for your terminal.
 - [D&D Shell](https://github.com/bsdpunk/dndshell) - A shell for all things DND.
 
+### Emacs
+
+- [Emacs-Dnd5e-API](https://github.com/Rohan-Goyal/emacs-dnd5e-api) - Look up entries in the 5e SRD from within Emacs.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
