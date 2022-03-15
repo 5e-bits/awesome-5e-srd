@@ -31,6 +31,10 @@ API Clients written in go
 - [elliotcubit/go-5e-srd-api](https://github.com/elliotcubit/go-5e-srd-api) - Go bindings for 5e-srd-api.
 - [kjkondratuk/go-dnd5eapi](https://github.com/kjkondratuk/go-dnd5eapi) - A go client for interacting with the dnd5eapi.
 
+### Kotlin
+
+- [DrZoddiak/KsonMulti](https://github.com/DrZoddiak/KsonMulti) - API Wrapper and client for D&D 5e SRD
+
 ## Bots
 
 Bots that leverage the D&D 5e SRD API
