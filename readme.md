@@ -9,6 +9,7 @@
 - [API Clients](#api-clients)
   - [JS/TS](#jsts)
   - [Go](#go)
+  - [Kotlin](#kotlin)
 - [Bots](#bots)
   - [Discord](#discord)
 - [Applications](#applications)
