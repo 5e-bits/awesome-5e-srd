@@ -4,6 +4,8 @@
 
 <img width="500" height="350" src="/awesome-logo.svg" alt="Awesome">
 
+## Contents
+
 - [API Clients](#api-clients)
   - [JS/TS](#jsts)
   - [Go](#go)
@@ -11,7 +13,9 @@
 - [Bots](#bots)
   - [Discord](#discord)
 - [Applications](#applications)
+  - [Desktop Applications](#desktop-applications)
   - [Web Applications](#web-applications)
+  - [Mobile Applications](#mobile-applications)
   - [Command Line](#command-line)
 - [Contribute](#contribute)
 
@@ -32,6 +36,8 @@ API Clients written in go
 
 ### Kotlin
 
+API Clients written in Kotlin
+
 - [DrZoddiak/KsonMulti](https://github.com/DrZoddiak/KsonMulti) - API Wrapper and client for D&D 5e SRD
 
 ## Bots
@@ -49,8 +55,8 @@ Bots that leverage the D&D 5e SRD API
 
 - [Dungeon Master Tool](https://github.com/Kaotic3/DungeonMasterTool) - A tool for Dungeon Masters to help them run their games.
 - [Dragon Inn](https://store.steampowered.com/app/2198120/Dragon_Inn/) - Dragon Inn is a visualization tool for roleplaying games online.
-- [Tale Smith](https://thetalesguild.com/) TTRPG Software for Game Masters
-- [DM Hub](https://dmhubapp.com/) - A tool for DMs to manage their campaigns
+- [Tale Smith](https://thetalesguild.com/) - TTRPG Software for Game Masters.
+- [DM Hub](https://dmhubapp.com/) - A tool for DMs to manage their campaigns.
 
 ### Web Applications
 
@@ -62,7 +68,7 @@ Bots that leverage the D&D 5e SRD API
 - [initiative.sh](https://initiative.sh/) - A text-based storytelling aid and reference for game masters.
 - [Spell Card Generator](https://dndspellcards.com/) - Generates printable spell cards for D&D 5e.
 - [Dungeons](https://mastodon.social/@dungeons) - A Mastodon bot that runs the campaign of a character with community voting.
-- [Britzky's Dungeon](https://main--gilded-squirrel-0bbe73.netlify.app/) - Character creator using AI art
+- [Britzky's Dungeon](https://main--gilded-squirrel-0bbe73.netlify.app/) - Character creator using AI art.
 
 ### Mobile Applications
 
