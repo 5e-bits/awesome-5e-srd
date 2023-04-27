@@ -17,6 +17,7 @@
   - [Web Applications](#web-applications)
   - [Mobile Applications](#mobile-applications)
   - [Command Line](#command-line)
+  - [Emacs](#emacs)
 - [Contribute](#contribute)
 
 ## API Clients
