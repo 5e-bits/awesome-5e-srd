@@ -1,22 +1,23 @@
-# Awesome D&D 5e SRD[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome D&D 5e SRD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A compilation of all the cool things people make with the D&amp;D 5e-srd API
 
 <img width="500" height="350" src="/awesome-logo.svg" alt="Awesome">
 
-- [Awesome D\&D 5e SRD](#awesome-dd-5e-srd)
-  - [API Clients](#api-clients)
-    - [JS/TS](#jsts)
-    - [Go](#go)
-    - [Kotlin](#kotlin)
-  - [Bots](#bots)
-    - [Discord](#discord)
-  - [Applications](#applications)
-    - [Desktop Applications](#desktop-applications)
-    - [Web Applications](#web-applications)
-    - [Mobile Applications](#mobile-applications)
-    - [Command Line](#command-line)
-  - [Contribute](#contribute)
+## Contents
+
+- [API Clients](#api-clients)
+  - [JS/TS](#jsts)
+  - [Go](#go)
+  - [Kotlin](#kotlin)
+- [Bots](#bots)
+  - [Discord](#discord)
+- [Applications](#applications)
+  - [Desktop Applications](#desktop-applications)
+  - [Web Applications](#web-applications)
+  - [Mobile Applications](#mobile-applications)
+  - [Command Line](#command-line)
+- [Contribute](#contribute)
 
 ## API Clients
 
