@@ -39,7 +39,7 @@ API Clients written in go
 
 API Clients written in Kotlin
 
-- [DrZoddiak/KsonMulti](https://github.com/DrZoddiak/KsonMulti) - A Kotlin API wrapper.
+- [DrZoddiak/KsonMulti](https://github.com/DrZoddiak/KsonMulti) - API Wrapper and client for D&D 5e SRD.
 
 ## Bots
 
