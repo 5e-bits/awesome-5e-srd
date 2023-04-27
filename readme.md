@@ -17,6 +17,7 @@
   - [Web Applications](#web-applications)
   - [Mobile Applications](#mobile-applications)
   - [Command Line](#command-line)
+  - [Emacs](#emacs)
 - [Contribute](#contribute)
 
 ## API Clients
@@ -66,7 +67,7 @@ Bots that leverage the D&D 5e SRD API
 - [DnDify](https://trevorbrown-dev.github.io/dndify) - A character sheet application.
 - [DnD Combat Tracker](http://dnd.achim-strauss.net) - Track your encounters as a DM. Keeps track of your players even between sessions.
 - [initiative.sh](https://initiative.sh/) - A text-based storytelling aid and reference for game masters.
-- [Spell Card Generator](https://dndspellcards.com/) - Generates printable spell cards for D&D 5e.
+- [DnD Spell Cards](https://dndspellcards.com/) - An application to generate PDF printouts of your spell cards, in a variety of themes and colors!
 - [Dungeons](https://mastodon.social/@dungeons) - A Mastodon bot that runs the campaign of a character with community voting.
 - [Britzky's Dungeon](https://main--gilded-squirrel-0bbe73.netlify.app/) - Character creator using AI art.
 
@@ -79,6 +80,10 @@ Bots that leverage the D&D 5e SRD API
 - [Fuzzy 5e](https://github.com/cachance7/fuzzy5e) - A 5th edition SRD5 reference for your terminal.
 - [D&D Shell](https://github.com/bsdpunk/dndshell) - A shell for all things DND.
 - [ecshreve/dmhelpz](https://github.com/ecshreve/dmhelpz) - A command line tool for D&D 5e using GraphQL and Go.
+
+### Emacs
+
+- [Emacs-Dnd5e-API](https://github.com/Rohan-Goyal/emacs-dnd5e-api) - Look up entries in the 5e SRD from within Emacs.
 
 ## Contribute
 
