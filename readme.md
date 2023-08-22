@@ -49,6 +49,7 @@ Bots that leverage the D&D 5e SRD API
 
 - [Dungeon Master](https://top.gg/bot/755592938922442782) - A Discord bot for all your D&D SRD needs, including infoabout classes, spells, equipment and more.
 - [Dragon Aid](https://top.gg/bot/697579011005481021) - A Discord bot that takes D&D SRD info from the 5e srd API.
+- [5e-bot](https://5ebot.com/) - Roll Dice and Find Resources for Dungeons & Dragons 5e.
 
 ## Applications
 
@@ -56,7 +57,6 @@ Bots that leverage the D&D 5e SRD API
 
 - [Dungeon Master Tool](https://github.com/Kaotic3/DungeonMasterTool) - A tool for Dungeon Masters to help them run their games.
 - [Dragon Inn](https://store.steampowered.com/app/2198120/Dragon_Inn/) - Dragon Inn is a visualization tool for roleplaying games online.
-- [Tale Smith](https://thetalesguild.com/) - TTRPG Software for Game Masters.
 - [DM Hub](https://dmhubapp.com/) - A tool for DMs to manage their campaigns.
 
 ### Web Applications
