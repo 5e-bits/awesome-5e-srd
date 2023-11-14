@@ -77,7 +77,7 @@ Bots that leverage the D&D 5e SRD API
 
 ### Command Line
 
-- [dndtool](https://github.com/DaveBuckingham/dndtool) - A powerful interactive environment for 5e players and GMs.
+- [dndtool](https://github.com/DaveBuckingham/dndtool) - An interactive environment for 5e players and GMs.
 - [Fuzzy 5e](https://github.com/cachance7/fuzzy5e) - A 5th edition SRD5 reference for your terminal.
 - [D&D Shell](https://github.com/bsdpunk/dndshell) - A shell for all things DND.
 - [ecshreve/dmhelpz](https://github.com/ecshreve/dmhelpz) - A command line tool for D&D 5e using GraphQL and Go.
