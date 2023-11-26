@@ -22,10 +22,6 @@
 
 ## API Clients
 
-### JS/TS
-
-- [fergcb/fivee](https://github.com/fergcb/fivee) - Typescript wrapper library for the D&D 5e SRD API.
-
 ### Go
 
 API Clients written in go
