@@ -7,7 +7,6 @@
 ## Contents
 
 - [API Clients](#api-clients)
-  - [JS/TS](#jsts)
   - [Go](#go)
   - [Kotlin](#kotlin)
 - [Bots](#bots)
@@ -21,10 +20,6 @@
 - [Contribute](#contribute)
 
 ## API Clients
-
-### JS/TS
-
-- [fergcb/fivee](https://github.com/fergcb/fivee) - Typescript wrapper library for the D&D 5e SRD API.
 
 ### Go
 
