@@ -42,8 +42,6 @@ Bots that leverage the D&D 5e SRD API
 
 ### Discord
 
-- [Dungeon Master](https://top.gg/bot/755592938922442782) - A Discord bot for all your D&D SRD needs, including infoabout classes, spells, equipment and more.
-- [Dragon Aid](https://top.gg/bot/697579011005481021) - A Discord bot that takes D&D SRD info from the 5e srd API.
 - [5e-bot](https://5ebot.com/) - Roll Dice and Find Resources for Dungeons & Dragons 5e.
 
 ## Applications
