@@ -64,7 +64,6 @@ Bots that leverage the D&D 5e SRD API
 - [initiative.sh](https://initiative.sh/) - A text-based storytelling aid and reference for game masters.
 - [DnD Spell Cards](https://dndspellcards.com/) - An application to generate PDF printouts of your spell cards, in a variety of themes and colors!
 - [Dungeons](https://mastodon.social/@dungeons) - A Mastodon bot that runs the campaign of a character with community voting.
-- [Britzky's Dungeon](https://main--gilded-squirrel-0bbe73.netlify.app/) - Character creator using AI art.
 
 ### Mobile Applications
 
@@ -72,6 +71,7 @@ Bots that leverage the D&D 5e SRD API
 
 ### Command Line
 
+- [dndtool](https://github.com/DaveBuckingham/dndtool) - An interactive environment for 5e players and GMs.
 - [Fuzzy 5e](https://github.com/cachance7/fuzzy5e) - A 5th edition SRD5 reference for your terminal.
 - [D&D Shell](https://github.com/bsdpunk/dndshell) - A shell for all things DND.
 - [ecshreve/dmhelpz](https://github.com/ecshreve/dmhelpz) - A command line tool for D&D 5e using GraphQL and Go.
