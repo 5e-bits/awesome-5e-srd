@@ -60,7 +60,6 @@ Bots that leverage the D&D 5e SRD API
 - [DnDify](https://trevorbrown-dev.github.io/dndify) - A character sheet application.
 - [DnD Combat Tracker](http://dnd.achim-strauss.net) - Track your encounters as a DM. Keeps track of your players even between sessions.
 - [initiative.sh](https://initiative.sh/) - A text-based storytelling aid and reference for game masters.
-- [DnD Spell Cards](https://dndspellcards.com/) - An application to generate PDF printouts of your spell cards, in a variety of themes and colors!
 - [Dungeons](https://mastodon.social/@dungeons) - A Mastodon bot that runs the campaign of a character with community voting.
 
 ### Mobile Applications
