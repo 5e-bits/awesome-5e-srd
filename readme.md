@@ -48,7 +48,6 @@ Bots that leverage the D&D 5e SRD API
 
 ### Desktop Applications
 
-- [Dungeon Master Tool](https://github.com/Kaotic3/DungeonMasterTool) - A tool for Dungeon Masters to help them run their games.
 - [Dragon Inn](https://store.steampowered.com/app/2198120/Dragon_Inn/) - Dragon Inn is a visualization tool for roleplaying games online.
 - [DM Hub](https://dmhubapp.com/) - A tool for DMs to manage their campaigns.
 
