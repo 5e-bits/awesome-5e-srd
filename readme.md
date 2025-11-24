@@ -48,7 +48,7 @@ Bots that leverage the D&D 5e SRD API
 
 ### Desktop Applications
 
-- [Dragon Inn](https://store.steampowered.com/app/2198120/Dragon_Inn/) - Dragon Inn is a visualization tool for roleplaying games online.
+- [Dragon Inn](https://store.steampowered.com/app/2198120/Dragon_Inn/) - A visualization tool for roleplaying games online.
 - [DM Hub](https://dmhubapp.com/) - A tool for DMs to manage their campaigns.
 
 ### Web Applications
