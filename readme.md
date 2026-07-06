@@ -60,6 +60,8 @@ Bots that leverage the D&D 5e SRD API
 - [DnD Combat Tracker](http://dnd.achim-strauss.net) - Track your encounters as a DM. Keeps track of your players even between sessions.
 - [initiative.sh](https://initiative.sh/) - A text-based storytelling aid and reference for game masters.
 - [Dungeons](https://mastodon.social/@dungeons) - A Mastodon bot that runs the campaign of a character with community voting.
+- [OmnisGM Rules](https://rules.omnisgm.com) - Fast static reader for open TTRPG SRDs (D&D 5.2.1/5.1, Daggerheart, BRP) with clean citable HTML, public Markdown sources and a complete Russian translation.
+- [OmnisGM](https://omnisgm.com) - Free realtime D&D 2024 character sheets for in-person play: players keep their sheets on their phones, the GM sees every change live. Installable PWA, works offline.
 
 ### Mobile Applications
 
